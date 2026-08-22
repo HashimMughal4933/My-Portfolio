@@ -16,11 +16,11 @@ const Loader = ({ setLoading }) => {
                     clearInterval(interval);
                     setTimeout(() => {
                     setLoading(false)
-                    },1250);
+                    },1150);
                     return prev;
                 }
             })
-        }, 80)
+        }, 60)
     }, [])
 
     return (
@@ -35,7 +35,7 @@ const Loader = ({ setLoading }) => {
             {/* loader  */}
             <div className="w-50 sm:w-80 h-1 bg-zinc-800 rounded-full overflow-hidden">
                 <div
-                    className="h-full bg-white rounded-full transition-all ease duration-100"
+                    className="h-full bg-white rounded-full transition-all ease duration-50"
                     style={{ width: `${counter}%`}}
                 ></div>
             </div>
