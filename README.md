@@ -1,20 +1,36 @@
-# My-Portfolio
-Personal forntend portfolio
-=======
-# React + Vite
+Frontend Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Overview
 
-Currently, two official plugins are available:
+This is my personal frontend developer portfolio, built to showcase my skills, projects, and experience in web development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The portfolio focuses on a clean, modern, and responsive design with an emphasis on user experience and interactive frontend development.
 
-## React Compiler
+Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive design
+- Modern and clean UI
+- Projects showcase
+- About section
+- Skills section
+- Contact form
+- Smooth interactions and animations
+- CV/Resume section
 
-## Expanding the ESLint configuration
+Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 24dff59 (Portfolio is committed)
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Vite
+- Tailwind CSS
+
+Purpose
+
+The main purpose of this portfolio is to present my frontend development journey and demonstrate the projects and technologies I have worked with.
+
+Author
+
+Hashim Mughal
+Frontend Developer
