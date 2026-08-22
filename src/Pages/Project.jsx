@@ -3,7 +3,7 @@ import netsharp from '../assets/netsharp.PNG'
 import netflix from '../assets/netflix.PNG'
 import todo from '../assets/todos.PNG'
 import portfolio from '../assets/portfolio.PNG'
-import light from '../assets/light.PNG'
+import light from '../assets/light.png'
 import rays from '../assets/rays.jpeg'
 
 import { IoIosArrowRoundUp } from "react-icons/io";
