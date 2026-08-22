@@ -2,7 +2,7 @@ import React from 'react'
 import netsharp from '../assets/netsharp.png'
 import netflix from '../assets/netflix.png'
 import todo from '../assets/todos.png'
-import portfolio from '../assets/portfolio.png'
+import portfolio from '../assets/portfolio.PNG'
 import light from '../assets/light.png'
 import rays from '../assets/rays.jpeg'
 
